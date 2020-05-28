@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectLibraryCollection", "ProjectLibraryCollection\ProjectLibraryCollection.csproj", "{69FB44B1-D4C3-4E9C-9F42-26BDA66BBF5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgreDB_Connection", "PostgreDB_Connection\PostgreDB_Connection.csproj", "{FC1BCF31-0BDC-472E-9710-49E47EE19B55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69FB44B1-D4C3-4E9C-9F42-26BDA66BBF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FB44B1-D4C3-4E9C-9F42-26BDA66BBF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FB44B1-D4C3-4E9C-9F42-26BDA66BBF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FB44B1-D4C3-4E9C-9F42-26BDA66BBF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1BCF31-0BDC-472E-9710-49E47EE19B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1BCF31-0BDC-472E-9710-49E47EE19B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1BCF31-0BDC-472E-9710-49E47EE19B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1BCF31-0BDC-472E-9710-49E47EE19B55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8D0DF8-BF33-40C6-AC90-4B90A9F1B9F4}
+	EndGlobalSection
+EndGlobal

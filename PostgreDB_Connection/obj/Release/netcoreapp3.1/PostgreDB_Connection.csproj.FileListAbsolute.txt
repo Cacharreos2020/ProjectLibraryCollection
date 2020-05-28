@@ -1,0 +1,10 @@
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\bin\Release\netcoreapp3.1\PostgreDB_Connection.deps.json
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\bin\Release\netcoreapp3.1\PostgreDB_Connection.dll
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\bin\Release\netcoreapp3.1\PostgreDB_Connection.pdb
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Release\netcoreapp3.1\PostgreDB_Connection.Properties.Resources.resources
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Release\netcoreapp3.1\PostgreDB_Connection.csproj.GenerateResource.cache
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Release\netcoreapp3.1\PostgreDB_Connection.csproj.CoreCompileInputs.cache
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Release\netcoreapp3.1\PostgreDB_Connection.AssemblyInfoInputs.cache
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Release\netcoreapp3.1\PostgreDB_Connection.AssemblyInfo.cs
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Release\netcoreapp3.1\PostgreDB_Connection.dll
+C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Release\netcoreapp3.1\PostgreDB_Connection.pdb
