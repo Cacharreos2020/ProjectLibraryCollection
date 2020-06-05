@@ -23,3 +23,16 @@ C:\Projects\AspNetCore_Docker\PostgreDB_Connection\bin\Debug\netcoreapp3.1\Postg
 C:\Projects\AspNetCore_Docker\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.runtimeconfig.dev.json
 C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.genruntimeconfig.cache
 C:\Projects\AspNetCore_Docker\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.csproj.CoreCompileInputs.cache
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.deps.json
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.runtimeconfig.json
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.runtimeconfig.dev.json
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.pdb
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.csprojAssemblyReference.cache
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.Properties.Resources.resources
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.csproj.GenerateResource.cache
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.AssemblyInfoInputs.cache
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.AssemblyInfo.cs
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.pdb
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.genruntimeconfig.cache
