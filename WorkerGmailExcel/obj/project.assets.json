@@ -8383,20 +8383,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\": {}
+    "C:\\Users\\FranciscoBallesteros\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\WorkerGmailExcel\\WorkerGmailExcel.csproj",
+      "projectUniqueName": "C:\\Users\\FranciscoBallesteros\\Desktop\\Proyectos\\pruebas_locales\\librerias\\ProjectLibraryCollection\\WorkerGmailExcel\\WorkerGmailExcel.csproj",
       "projectName": "WorkerGmailExcel",
-      "projectPath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\WorkerGmailExcel\\WorkerGmailExcel.csproj",
-      "packagesPath": "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\WorkerGmailExcel\\obj\\",
+      "projectPath": "C:\\Users\\FranciscoBallesteros\\Desktop\\Proyectos\\pruebas_locales\\librerias\\ProjectLibraryCollection\\WorkerGmailExcel\\WorkerGmailExcel.csproj",
+      "packagesPath": "C:\\Users\\FranciscoBallesteros\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FranciscoBallesteros\\Desktop\\Proyectos\\pruebas_locales\\librerias\\ProjectLibraryCollection\\WorkerGmailExcel\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\AlvaroCaparrosCarden\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\FranciscoBallesteros\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -8442,12 +8447,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
