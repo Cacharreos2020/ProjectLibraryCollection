@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uEr8qPNOgANCgTNo1ER3y1au0BuFel/NTCtccn6/WjyGzUzS2VKRp9P5yqYW/HQsgf//VC8Putwq6lJcmw80QQ==",
+  "dgSpecHash": "I/3bbW2uOEiTyvS6X+2i9Emj1fcOh5+YaxtdqM7T+ITE0maNFp4S4EU2Yjnpx7MTWR+8E93jZR7rb3NSCMdqUA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\AspNetCore_Docker\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj",
+  "projectFilePath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

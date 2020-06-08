@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AspNetCore_Docker\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj": {}
+    "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AspNetCore_Docker\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj": {
+    "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AspNetCore_Docker\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj",
+        "projectUniqueName": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj",
         "projectName": "SqlServerDB_Connection",
-        "projectPath": "C:\\Projects\\AspNetCore_Docker\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj",
+        "projectPath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\SqlServerDB_Connection\\SqlServerDB_Connection.csproj",
         "packagesPath": "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AspNetCore_Docker\\SqlServerDB_Connection\\obj\\",
+        "outputPath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\SqlServerDB_Connection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AlvaroCaparrosCarden\\AppData\\Roaming\\NuGet\\NuGet.Config",
