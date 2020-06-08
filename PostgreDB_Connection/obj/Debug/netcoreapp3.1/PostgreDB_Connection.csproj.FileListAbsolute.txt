@@ -36,3 +36,17 @@ C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryColl
 C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.dll
 C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.pdb
 C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.genruntimeconfig.cache
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.deps.json
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.runtimeconfig.json
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.runtimeconfig.dev.json
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.dll
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\bin\Debug\netcoreapp3.1\PostgreDB_Connection.pdb
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.csprojAssemblyReference.cache
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.Properties.Resources.resources
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.csproj.GenerateResource.cache
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.AssemblyInfoInputs.cache
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.AssemblyInfo.cs
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.dll
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.pdb
+C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\librerias\ProjectLibraryCollection\PostgreDB_Connection\obj\Debug\netcoreapp3.1\PostgreDB_Connection.genruntimeconfig.cache

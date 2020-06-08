@@ -25,6 +25,9 @@ namespace WorkerGmailExcel
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
+            DateTime fechaUltimoMensaje = new DateTime();
+            int intervalo = 0;
+
             while (!stoppingToken.IsCancellationRequested)
             {
                 using (var client = new ImapClient())
@@ -38,23 +41,22 @@ namespace WorkerGmailExcel
 
                             // Miramos al inbox del correo.
                             var inbox = client.Inbox;
-                            inbox.Open(FolderAccess.ReadOnly, cancel.Token);
+                            inbox.Open(FolderAccess.ReadWrite, cancel.Token);
 
                             Console.WriteLine("Total messages: {0}", inbox.Count);
                             Console.WriteLine("Recent messages: {0}", inbox.Recent);
 
                             // Descargamos los mensajes que se encuentren en el index
-                            for (int i = 0; i < inbox.Count; i++)
+                            foreach(var mensaje in inbox.Where( x => x.Date.LocalDateTime > fechaUltimoMensaje))
                             {
-                                inbox.Open(FolderAccess.ReadWrite);
+                                Console.WriteLine("Asunto: {0}", mensaje.Subject);
+                                Console.WriteLine("ResentDate: {0}", mensaje.ResentDate);
+                                Console.WriteLine("Fecha: {0}", mensaje.Date.LocalDateTime);
+                                intervalo++;
 
-                                var message = inbox.GetMessage(i, cancel.Token);
-                                Console.WriteLine("Asunto: {0}", message.Subject);
-                                Console.WriteLine("ResentDate: {0}", message.ResentDate);
-                                Console.WriteLine("Fecha: {0}", message.Date.LocalDateTime);
-                                if (message.Attachments.Count() != 0)
+                                if (mensaje.Attachments.Count() != 0)
                                 {
-                                    foreach (var att in message.Attachments)
+                                    foreach (var att in mensaje.Attachments)
                                     {
                                         if (!File.Exists(@"C:\Users\" + Environment.UserName + "\\Downloads\\" + att.ContentType.Name))
                                         {
@@ -69,7 +71,13 @@ namespace WorkerGmailExcel
                                         }
                                     }                                    
                                 }
-                                inbox.AddFlags(i, MessageFlags.Seen, true);
+
+                                inbox.AddFlags(intervalo, MessageFlags.Seen, true);
+
+                                if (fechaUltimoMensaje < mensaje.Date.LocalDateTime)
+                                {
+                                    fechaUltimoMensaje = mensaje.Date.LocalDateTime;
+                                }
                             }
 
                             client.Disconnect(true, cancel.Token);
