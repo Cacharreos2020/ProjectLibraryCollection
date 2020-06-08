@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zf4AehMopzdYNcRA/nL4rRnsojN9SQkxRIXzX9vNzwN8YtXhMOAfNdI2IT8OCWfaITY3bEl23//jFGBRV7rwmw==",
+  "dgSpecHash": "z26BtMY7HeNaE1pg6XucOgMxWdcDDwiru9vi0+zHEEHflTRfm+BOG5XiVHRvcoJEE/rn5OeFzHFsjeas065BPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FranciscoBallesteros\\Desktop\\Proyectos\\pruebas_locales\\librerias\\ProjectLibraryCollection\\ProjectLibraryCollection\\ProjectLibraryCollection.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\FranciscoBallesteros\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\ProjectLibraryCollection\\ProjectLibraryCollection\\ProjectLibraryCollection.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
